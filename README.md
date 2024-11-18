@@ -5,3 +5,12 @@ Este proyecto analiza la relación entre la producción de los principales metal
 El manual explica el uso de la creación del formato GET
 
 📑
+
+
+
+
+
+
+
+> [!NOTE]
+> Asegurarnos de que el código de BCRP coincida en formato temporal es decir comparar periodos anuales - anuales  
