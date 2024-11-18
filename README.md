@@ -3,3 +3,4 @@ Este proyecto analiza la relación entre la producción de los principales metal
 #Datos Extraídos https://estadisticas.bcrp.gob.pe/estadisticas/series/diarias/
 ## BCRP API manual
 El manual explica el uso de la creación del formato GET
+📑
