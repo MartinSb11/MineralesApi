@@ -87,23 +87,23 @@ El manual explica el uso de la creación del formato GET
 
           
 ### Summary OLS :godmode:
-OLS Regression Results
-Dep. Variable:	PBI	R-squared:	0.958
-Model:	OLS	Adj. R-squared:	0.958
-Method:	Least Squares	F-statistic:	3773.
-Date:	Sat, 16 Nov 2024	Prob (F-statistic):	4.45e-116
-Time:	18:47:09	Log-Likelihood:	-511.47
-No. Observations:	168	AIC:	1027.
-Df Residuals:	166	BIC:	1033.
-Df Model:	1		
-Covariance Type:	nonrobust		
-coef	std err	t	P>|t|	[0.025	0.975]
-const	53.3446	1.122	47.547	0.000	51.130	55.560
-Produccion	0.0005	7.52e-06	61.429	0.000	0.000	0.000
-Omnibus:	95.438	Durbin-Watson:	0.773
-Prob(Omnibus):	0.000	Jarque-Bera (JB):	886.283
-Skew:	-1.867	Prob(JB):	3.52e-193
-Kurtosis:	13.614	Cond. No.	4.24e+05
+          OLS Regression Results
+          Dep. Variable:	PBI	R-squared:	0.958
+          Model:	OLS	Adj. R-squared:	0.958
+          Method:	Least Squares	F-statistic:	3773.
+          Date:	Sat, 16 Nov 2024	Prob (F-statistic):	4.45e-116
+          Time:	18:47:09	Log-Likelihood:	-511.47
+          No. Observations:	168	AIC:	1027.
+          Df Residuals:	166	BIC:	1033.
+          Df Model:	1		
+          Covariance Type:	nonrobust		
+          coef	std err	t	P>|t|	[0.025	0.975]
+          const	53.3446	1.122	47.547	0.000	51.130	55.560
+          Produccion	0.0005	7.52e-06	61.429	0.000	0.000	0.000
+          Omnibus:	95.438	Durbin-Watson:	0.773
+          Prob(Omnibus):	0.000	Jarque-Bera (JB):	886.283
+          Skew:	-1.867	Prob(JB):	3.52e-193
+          Kurtosis:	13.614	Cond. No.	4.24e+05
 
           
 ## Conclusión 📑📈
