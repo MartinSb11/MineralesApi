@@ -5,7 +5,15 @@ Este proyecto analiza la relación entre la producción de los principales metal
 ## BCRP API manual 🤔🎆
 El manual explica el uso de la creación del formato GET
 > [!NOTE]
-> Asegurarnos de que el código de BCRP coincida en formato temporal es decir comparar periodos anuales - anuales  
+> Asegurarnos de que el código de BCRP coincida en formato temporal es decir comparar periodos anuales - anuales
+
+## 🐍CODE🐍
+> [!NOTE]
+> Librerias utilizadas Pandas, Requests, matplotlib, statsmodels
+import pandas as pd
+import requests
+import statsmodels.api as sm
+import matplotlib.pyplot as plt
 
 
 ## Conclusión 📑📈
