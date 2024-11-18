@@ -107,9 +107,12 @@ El manual explica el uso de la creación del formato GET
 
           
 ## Conclusión 📑📈
-La conclusión interpretativa relacionada a los modelos de regresión muestran que el cobre es el metal que muestra una relación más estrecha que los otros metales señalados (ZINC, PLATA). Además, este proyecto muestra la relación de la variabilidad mostrada en un 90%. Sin embargo, hay otros factores que motivan la variabilidad o del PBI(Minería), como las decisiones geopolíticas, demanda extranjera y suministros solicitados por las empresas mineras a cargo de la explotación del recurso señalado. 
 
-
+          Al analizar los resultados del modelo de regresión lineal, me doy cuenta de que la producción de minerales tiene un impacto significativo en el PBI del sector minero e hidrocarburos. El valor de 𝑅2 es 0.958, lo que significa que el 95.8% de la variabilidad en el PBI puede ser explicada por la producción de minerales. Este alto valor de 𝑅2 indica una relación fuerte y positiva entre estas dos variables.
+          
+          El coeficiente de producción es 0.0005, lo que implica que por cada unidad adicional en la producción de minerales, el PBI del sector minero e hidrocarburos aumenta en 0.0005 unidades. La significancia estadística del modelo es extremadamente alta, con un valor p prácticamente nulo (0.000), lo que confirma que esta relación no es producto del azar.
+          
+          Sin embargo, es importante tener en cuenta que el análisis de normalidad de los residuos sugiere una distribución no normal, con un sesgo negativo y una curtosis alta. Esto podría indicar la presencia de outliers o una distribución asimétrica de los datos, lo cual debe ser considerado en análisis futuros.
 
 
 
